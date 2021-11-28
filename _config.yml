@@ -1,3 +1,5 @@
 markdown: kramdown
 remote_theme: rogerleuthner/jekyll-serif-theme
 title: An Ancient Lineage
+
+theme: jekyll-theme-cayman
